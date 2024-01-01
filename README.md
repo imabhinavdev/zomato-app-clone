@@ -1,5 +1,5 @@
 # Zomato Clone App using Expo
-
+![Zomato App Clone](/projectImage/project.jpg)
 ## Overview
 
 Welcome to the Zomato Clone App! This app is built using Expo, a popular framework for building cross-platform mobile applications. The purpose of this clone is to provide users with a similar experience to the Zomato app, allowing them to browse and explore restaurants, view menus, and even place orders.
